@@ -1,1 +1,1 @@
-# public-gg-client
+# GG Client
