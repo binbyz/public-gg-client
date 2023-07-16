@@ -1,5 +1,7 @@
 # GG Client
 
+![GG Client](./gg-client-v1.0.0-min.png "GG Client")
+
 ## About
 
 **GG Client** is a debug client for PHP developers. Install the library and check the variables you want to output in **GG Client** with `gg($foo);`. The data storage feature allows you to retrieve it later. If you're a developer using the Laravel framework, you can automatically detect exception objects and check them directly in GG Client.
