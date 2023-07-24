@@ -1,6 +1,6 @@
 # GG Client
 
-![GG Client](./gg-client-v1.0.0-min.png "GG Client")
+![GG Client](./images/v1.1.0/ggclient-v1.1.0-dark.webp "GG Client")
 
 ## About
 
