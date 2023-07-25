@@ -1,5 +1,7 @@
 # GG Client
 
+You can download [https://phpgg.kr](https://phpgg.kr) via Gumroad 🚀
+
 ![GG Client](./images/v1.1.0/ggclient-v1.1.0-dark.webp "GG Client")
 
 ## About
