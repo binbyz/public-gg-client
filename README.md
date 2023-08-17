@@ -26,15 +26,7 @@ For projects that manage dependencies using composer, please install the library
 $ composer require --dev beaverlabs/gg
 ```
 
-## Laravel Framework
-
-Projects using Laravel can install a package with added Collection and exception object detection features.
-
-```bash
-$ composer require --dev beaverlabs/laravel-gg
-```
-
-## 버그 제보
+## Bug Reports
 
 This is very important. Please report bugs in **GG Client** through the issues in the repository.
 
